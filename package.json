@@ -1,0 +1,14 @@
+{
+  "name": "packagejson",
+  "version": "1.0.0",
+  "description": "An exercise to practice with package json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos M. Garate",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
